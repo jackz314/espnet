@@ -17,7 +17,7 @@ requirements = {
         "dataclasses; python_version < '3.7'",
         "humanfriendly",
         "scipy>=1.4.1",
-        "matplotlib==3.1.0",
+        "matplotlib>=3.1.0",
         "pillow>=6.1.0",
         "editdistance==0.5.2",
         "ctc-segmentation>=1.4.0",
